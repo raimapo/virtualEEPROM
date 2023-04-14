@@ -1,0 +1,2 @@
+# virtualEEPROM
+ STM32F303CCT7 flash EEPROM
